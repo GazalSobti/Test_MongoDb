@@ -9,6 +9,15 @@ print(db)
 d={"name":"gazal",
    "email":"gazalsobti786@gmail.com",
    "surname":"sobti"}
+d={"name":"gazal",
+   "email":"gazalsobti786@gmail.com",
+   "surname":"sobti"}
+d={"name":"gazal",
+   "email":"gazalsobti786@gmail.com",
+   "surname":"sobti"}
+d={"name":"gazal",
+   "email":"gazalsobti786@gmail.com",
+   "surname":"sobti"}
 
 db1=client['mongotest']
 coll=db1['test']
